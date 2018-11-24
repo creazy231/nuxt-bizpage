@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-bizpage",
+  "version": "1.0.0",
+  "description": "BizPage is suitable for business, corporate, consulting, consulting firms, finance, advisors, accountants, coach or any other company which needs a professional way to showcase their projects or services on the web.",
+  "author": "Tobias Thiele",
+  "private": true,
+  "config":{
+    "nuxt": {
+      "port": 3001
+    }
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
