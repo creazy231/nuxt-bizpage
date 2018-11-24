@@ -1,3 +1,5 @@
+![enter image description here](https://github.com/creazy231/nuxt-bizpage/blob/master/screencapture-localhost-3001-2018-11-24-02_43_26.png?raw=true)
+
 # nuxt-bizpage
 
 > BizPage is suitable for business, corporate, consulting, consulting firms, finance, advisors, accountants, coach or any other company which needs a professional way to showcase their projects or services on the web.
